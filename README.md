@@ -1,4 +1,4 @@
-# PromptShield AI
+# Agentic AI Code Reviewer
 
 **Test the attack. Measure the defense.**
 
